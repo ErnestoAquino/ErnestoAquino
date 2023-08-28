@@ -1,4 +1,4 @@
----
+
 
 ## README.md
 
@@ -9,7 +9,7 @@
 🎓 **Mon Parcours Académique**
 
 - **École 42** (2015 - 2016)
-  - J'ai réussi avec succès "la piscine" et ai commencé la préparation de la "Certification en Technologie Numérique". Cependant, j'ai décidé de prendre une pause pour me consacrer pleinement à ma fille.
+  - J'ai réussi avec succès "la piscine" et ai entamé la préparation de la "Certification en Technologie Numérique". Cependant, j'ai décidé de prendre une pause pour me consacrer pleinement à ma fille.
 
 - **Open Classrooms: iOS Dev** (2021 - 2022)
   - Diplôme de niveau 6 (Bac +3/4) RNCP en Développeur Concepteur Logiciel.
@@ -56,4 +56,3 @@ Si vous souhaitez collaborer, discuter technologie ou simplement vous connecter,
 
 Au plaisir de recevoir de vos nouvelles !
 
----
