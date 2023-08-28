@@ -4,7 +4,7 @@
 
 ### 👋 Salut ! Je suis Ernesto Aquino
 
-🌍 Après avoir passé 12 ans en France, ma passion pour l'informatique m'a conduit à suivre un parcours fascinant dans le monde du développement de logiciels.
+🌍 Vivant en France depuis 12 ans, ma passion pour l'informatique m'a conduit à suivre un parcours fascinant dans le monde du développement de logiciels.
 
 🎓 **Mon Parcours Académique**
 
